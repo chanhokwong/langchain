@@ -1,4 +1,12 @@
 # LangChain開發
+
+# LangChain示例
+
+**示例1: 大模型與對話歷史紀錄**
+
+
+# LangChain項目
+
 **項目1: 智能地區天氣查詢助手 WeatherTools**
 
 功能: 可以快速查詢各個地區的實時天氣數據
@@ -12,6 +20,7 @@ OpenWeather天氣API的調用: https://openweathermap.org/current
 CSV數據集來源: https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv
 
 項目缺點: 此API無法精準至每個區域，主要原因是因為沒有對應可用的CSV文件，如果有細至如香港每個區對應的經度、緯度的CSV開放數據集文件，那這個天氣查詢便可精確查詢至每個地方。
+
 
 **項目2: 智能翻譯工具 TranslateTools**
 
