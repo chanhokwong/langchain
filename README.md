@@ -12,3 +12,9 @@ OpenWeather天氣API的調用: https://openweathermap.org/current
 CSV數據集來源: https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv
 
 項目缺點: 此API無法精準至每個區域，主要原因是因為沒有對應可用的CSV文件，如果有細至如香港每個區對應的經度、緯度的CSV開放數據集文件，那這個天氣查詢便可精確查詢至每個地方。
+
+**項目2: 智能翻譯工具 TranslateTools**
+
+功能: 可以快速翻譯各國語言的句子
+
+內容: 通過在模板中設置大模型和用戶的傳參變量，以讓用戶在使用翻譯服務時，可以傳入要翻譯的句子和要翻譯的語言。
