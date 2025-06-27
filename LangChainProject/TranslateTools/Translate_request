@@ -1,0 +1,27 @@
+import requests, json
+
+url = "http://127.0.0.1:8002/chain/invoke"  
+
+headers = {  # 這個是必須要設置的 否則會出現格式錯誤的情況
+    "Content-Type": "application/json"
+}
+
+data = {
+    "input":  # 固定格式
+    {
+        "language":"English",  # 輸入傳參變量language 要翻譯的語言
+        "text":"我要去上課了，不能和你聊天了。"  # 輸入傳參變量text 用戶的問題
+    }
+}
+
+# 將返回的json數據轉回python數據
+json_data = json.dumps(data)  
+
+# 發送post請求
+res = requests.post(url=url,headers=headers,data=json_data)  
+
+# 打印請求的狀態碼
+print(res.status_code)
+
+# 打印請求響應的內容
+print(res.content)
