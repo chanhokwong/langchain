@@ -5,16 +5,58 @@
 
 # LangChain示例
 
-**示例1: 調用大模型Gemini API**
+**示例1: LangChain調用大模型Gemini API**
 
 概念: 使用Google內部的API調用方法
 
 
-**示例2: 大模型與對話歷史紀錄**
+**示例2: LangChain大模型與對話歷史紀錄**
 
 概念: 創建一個空字典，然後設置對話主題，接著把所有的對話都儲存到字典當中
 
+**示例3: LangChain的嵌入與向量數據庫**
 
+概念: 
+
+**示例4: LangChain為大模型添加搜索工具**
+
+概念: 
+
+**示例5: LangChain檢索增強生成RAG 樣例**
+
+概念: 
+
+**示例6: LangChain與數據庫的互動**
+
+概念:
+
+**示例7: Langchain檢索Youtube視頻字幕**
+
+概念:
+
+**示例8: LangChain提取結構化數據**
+
+概念:
+
+**示例9: LangChain自動生成數據**
+
+概念: 
+
+**示例10: LangChain文本分類器**
+
+概念:
+
+**示例11: LangChain文本摘要-Stuff**
+
+概念:
+
+**示例12: LangChain文本摘要-Map Reduce**
+
+概念: 
+
+**示例13: LangChain文本摘要-Refine**
+
+概念: 
 
 # LangChain項目
 
