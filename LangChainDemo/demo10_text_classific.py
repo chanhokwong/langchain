@@ -10,7 +10,7 @@ from pydantic.v1 import BaseModel, Field
 # 設定版本為LANGCHAIN_TRACING_V2
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 os.environ["LANGCHAIN_PROJECT"] = "LangChainDemo"  # 設置LangSmith的項目名稱 LangSmith是LangChain中的子項目 用以項目數據追蹤
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_API_KEY"] = "your_tracing_api_key"
 
 # 聊天機器人案例
 # 創建模型
