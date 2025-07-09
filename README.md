@@ -12,7 +12,7 @@
 
 **示例2: LangChain大模型與對話歷史紀錄**
 
-![](images/demo1.png)
+![](images/demo2.png)
 
 **示例3: LangChain的嵌入與向量數據庫**
 
