@@ -16,19 +16,19 @@
 
 **示例3: LangChain的嵌入與向量數據庫**
 
-概念: 
+![](images/demo3.png) 
 
 **示例4: LangChain為大模型添加搜索工具**
 
-概念: 
+![](images/demo4.png) 
 
 **示例5: LangChain檢索增強生成RAG 樣例**
 
-概念: 
+![](images/demo5.png) 
 
 **示例6: LangChain與數據庫的互動**
 
-概念:
+![](images/demo6.png)
 
 **示例7: Langchain檢索Youtube視頻字幕**
 
